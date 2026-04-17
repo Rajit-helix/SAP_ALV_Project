@@ -21,7 +21,6 @@ for Sales Order analysis in SAP SD (Sales & Distribution).
 | File | Description |
 |------|-------------|
 | `ZKIRIT_SALES_ALV_REPORT.abap` | Main ABAP report program |
-| `Project_Documentation.pdf` | 4-5 page project report (PDF) |
 | `README.md` | This file |
 
 ---
